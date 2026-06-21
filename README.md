@@ -65,7 +65,7 @@
 <h4>⚙️</h4>
 <p>Sistemas Web</p>
 </td>
-<td align="center" width="150">
+<td align="center" width="250">
 <h4>🚀</h4>
 <p>Proyectos Personalizados</p>
 </td>
