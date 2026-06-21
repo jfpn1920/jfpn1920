@@ -43,7 +43,7 @@
 <h4>🌐</h4>
 <p>Desarrollo Web</p>
 </td>
-<td align="center" width="200">
+<td align="center" width="150">
 <h4>🎮</h4>
 <p>Videojuegos Retro</p>
 </td>
@@ -57,7 +57,7 @@
 <h4>🎨</h4>
 <p>Templates Cliente</p>
 </td>
-<td align="center" width="150">
+<td align="center" width="200">
 <h4>🖥️</h4>
 <p>Aplicaciones Escritorio</p>
 </td>
