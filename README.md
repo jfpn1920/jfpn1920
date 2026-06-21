@@ -32,16 +32,73 @@
 <img src="https://img.shields.io/badge/Piskel-FF6F61?style=for-the-badge&logoColor=white"/>
 </p>
 
-#
-### 🛠️ Lo que puedo realizar 
-- 📊 Paneles Control
-- 🌐 Desarrollo Web
-- 🎮 Videojuegos Retro
-- 📖 Historias Interactivas
-- 🎨 Templates Cliente
-- 🖥️ Aplicaciones Escritorio
-- ⚙️ Sistemas Web
-- 🚀 Proyectos Personalizados
+## 🛠️ Lo que puedo realizar
+
+<table align="center">
+
+<tr>
+<td align="center" width="150">
+<div>
+<h2>📊</h2>
+<p>Paneles Control</p>
+</div>
+</td>
+
+<td align="center" width="150">
+<div>
+<h2>🌐</h2>
+<p>Desarrollo Web</p>
+</div>
+</td>
+
+<td align="center" width="150">
+<div>
+<h2>🎮</h2>
+<p>Videojuegos Retro</p>
+</div>
+</td>
+
+<td align="center" width="150">
+<div>
+<h2>📖</h2>
+<p>Historias Interactivas</p>
+</div>
+</td>
+
+
+<tr>
+
+<td align="center" width="150">
+<div>
+<h2>🎨</h2>
+<p>Templates Cliente</p>
+</div>
+</td>
+
+<td align="center" width="150">
+<div>
+<h2>🖥️</h2>
+<p>Aplicaciones Escritorio</p>
+</div>
+</td>
+
+<td align="center" width="150">
+<div>
+<h2>⚙️</h2>
+<p>Sistemas Web</p>
+</div>
+</td>
+
+<td align="center" width="150">
+<div>
+<h2>🚀</h2>
+<p>Proyectos Personalizados</p>
+</div>
+</td>
+
+</tr>
+
+</table>
 
 #
 ### 🌟 Construyamos algo increíble
