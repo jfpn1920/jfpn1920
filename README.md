@@ -7,7 +7,6 @@
 ### ➕ Mis habilidades
 <p align="justify">Las habilidades que presentare a continuación son el resultado de un proceso continuo de aprendizaje, práctica y desarrollo de proyectos. A través de la exploración de distintas áreas de la programación, el desarrollo web y la creación de aplicaciones interactivas, he adquirido conocimientos que a permiten comprender y aplicar diversas tecnologías en entornos reales, por ende, esto son mis habilidades:</p>
 
-
 ### Lenguajes de Programación
 <p align="left">
 <img src="https://img.shields.io/badge/PSeInt-007ACC?style=for-the-badge&logo=none&logoColor=white"/>
@@ -32,72 +31,45 @@
 <img src="https://img.shields.io/badge/Piskel-FF6F61?style=for-the-badge&logoColor=white"/>
 </p>
 
-## 🛠️ Lo que puedo realizar
-
-<table align="center">
-
+#
+### 🛠️ Lo que puedo realizar
+<table align="lef" border="1" cellpadding="10" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="150">
-<div>
-<h2>📊</h2>
+<h4>📊</h4>
 <p>Paneles Control</p>
-</div>
 </td>
-
 <td align="center" width="150">
-<div>
-<h2>🌐</h2>
+<h4>🌐</h4>
 <p>Desarrollo Web</p>
-</div>
 </td>
-
 <td align="center" width="150">
-<div>
-<h2>🎮</h2>
+<h4>🎮</h4>
 <p>Videojuegos Retro</p>
-</div>
 </td>
-
 <td align="center" width="150">
-<div>
-<h2>📖</h2>
+<h4>📖</h4>
 <p>Historias Interactivas</p>
-</div>
 </td>
-
-
-<tr>
-
-<td align="center" width="150">
-<div>
-<h2>🎨</h2>
-<p>Templates Cliente</p>
-</div>
-</td>
-
-<td align="center" width="150">
-<div>
-<h2>🖥️</h2>
-<p>Aplicaciones Escritorio</p>
-</div>
-</td>
-
-<td align="center" width="150">
-<div>
-<h2>⚙️</h2>
-<p>Sistemas Web</p>
-</div>
-</td>
-
-<td align="center" width="150">
-<div>
-<h2>🚀</h2>
-<p>Proyectos Personalizados</p>
-</div>
-</td>
-
 </tr>
-
+<tr>
+<td align="center" width="150">
+<h4>🎨</h4>
+<p>Templates Cliente</p>
+</td>
+<td align="center" width="150">
+<h4>🖥️</h4>
+<p>Aplicaciones Escritorio</p>
+</td>
+<td align="center" width="150">
+<h4>⚙️</h4>
+<p>Sistemas Web</p>
+</td>
+<td align="center" width="150">
+<h4>🚀</h4>
+<p>Proyectos Personalizados</p>
+</td>
+</tr>
 </table>
 
 #
