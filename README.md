@@ -35,7 +35,7 @@
 ### 🛠️ Lo que puedo realizar
 <table align="lef" border="1" cellpadding="10" cellspacing="0" width="110%">
 <tr>
-<td align="center" width="150">
+<td align="center" width="250">
 <h4>📊</h4>
 <p>Paneles Control</p>
 </td>
