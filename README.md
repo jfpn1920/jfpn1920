@@ -43,7 +43,7 @@
 <h4>🌐</h4>
 <p>Desarrollo Web</p>
 </td>
-<td align="center" width="180">
+<td align="center" width="200">
 <h4>🎮</h4>
 <p>Videojuegos Retro</p>
 </td>
