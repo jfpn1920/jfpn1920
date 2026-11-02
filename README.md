@@ -77,10 +77,13 @@
 <p align="justify">Estoy abierto a colaborar en proyectos que busquen transformar ideas en soluciones funcionales, creativas y de calidad. Ya sea el desarrollo de aplicaciones, sitios web, sistemas personalizados o experiencias interactivas, disfruto afrontar nuevos desafíos y aportar mis conocimientos para convertir cada proyecto en una realidad. Si tienes una idea o una oportunidad de colaboración, estaré encantado de conversar contigo.</p>
 <p align="center" style="font-size: 40px;">🌟 Contáctame conmigo aquí 🌟</p>
 <p align="center">
-<a href="https://www.linkedin.com/in/TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=none&logoColor=white"/></a>
-<a href="mailto:TU_CORREO@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=none&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juan-felipe-pe%C3%B1aloza-nieto-305000255/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=none&logoColor=white"/>
+</a>
+<a href="mailto:juanfelipepnieto1920@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=none&logoColor=white"/>
+</a>
+</p>
 <a href="https://www.instagram.com/TU_INSTAGRAM">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=none&logoColor=white"/>
 </a></p>
